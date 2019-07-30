@@ -1,0 +1,7 @@
+XGBOOST
+https://arxiv.org/pdf/1603.02754.pdf
+
+https://github.com/dmlc/xgboost/tree/master/demo/data
+
+SVM
+http://jermmy.xyz/images/2017-12-23/support_vector_machines_succinctly.pdf
